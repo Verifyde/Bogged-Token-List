@@ -1,0 +1,11 @@
+{
+    "name": "Verifyde",
+    "website": "https://verifyde.io",
+    "description": "The No.1 Marketplace for Token Owners to Buy Marketing Deals and Promotions",
+    "explorer": "https://bscscan.com/token/0xf04f82fc8fea1eb49e1a2c132a99e4ea43a140f3",
+    "type": "BEP20",
+    "symbol": "VFY",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xf04f82fc8fea1eb49e1a2c132a99e4ea43a140f3"
+}
